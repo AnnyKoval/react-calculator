@@ -1,3 +1,6 @@
+# This calculator was a final project on a Basic React block of a "Meta Front-end Developer" course from "Meta".
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
